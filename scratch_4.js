@@ -74,3 +74,4 @@ autoSchool.welcome();
 // autoSchool.welcome("", 15);
 // autoSchool.welcome("Тест", 16);
 // autoSchool.welcome("Тест", 18);
+//Тест
